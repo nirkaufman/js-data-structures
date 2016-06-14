@@ -1,0 +1,27 @@
+{
+  "name": "js-data-structures",
+  "version": "1.0.0",
+  "description": "reference code",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node_modules/.bin/babel-node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirkaufman/js-data-structures.git"
+  },
+  "keywords": [
+    "javascript",
+    "es6",
+    "data-structures"
+  ],
+  "author": "Nir Kaufman <nirkaufman@gmail.com> (nirkaufman.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nirkaufman/js-data-structures/issues"
+  },
+  "homepage": "https://github.com/nirkaufman/js-data-structures#readme",
+  "devDependencies": {
+    "node-babel": "0.1.2"
+  }
+}
